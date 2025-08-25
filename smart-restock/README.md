@@ -1,0 +1,1 @@
+# Welcome to smart inventory management system, where you can monitor and manage stocks/inventory.
